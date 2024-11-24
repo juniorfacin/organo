@@ -1,0 +1,20 @@
+.text-comp {
+    margin: 24px 0;
+
+}
+
+.text-comp label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 24px;
+}
+
+.text-comp input {
+    background-color: #FFFFFF;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0.06);
+    width: 100%;
+    border: none;
+    box-sizing: border-box;
+    padding: 30px 10px;
+    border-radius: 10px;
+}
